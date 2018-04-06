@@ -31,5 +31,6 @@
         "psr-4": {
             "wbraganca\\dynamicform\\": "src"
         }
-    }
+    },
+    "minimum-stability": "master"
 }
